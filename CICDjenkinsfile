@@ -98,7 +98,7 @@ pipeline {
 					}, //requested_by with name.
 					//You can provide requested_by with sys_id. Example: "requested_by": "62826bf03710200044e0bfc8bcbe5df1", 
 					"assignment_group": {
-						"name": "Change Management"
+						"name": "Application Development"
 					}, //assignment_group with name.
 					//You can provide assignment_group with sys_id. Example: "assignment_group": "5f721d93c0a8010e015533746de18bf9",
 					"priority": "2",
