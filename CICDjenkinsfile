@@ -103,7 +103,7 @@ pipeline {
 					//You can provide assignment_group with sys_id. Example: "assignment_group": "5f721d93c0a8010e015533746de18bf9",
 					"priority": "3",
 					"comments": "This is a sample pipeline script to be added in your change step",
-					"work_notes": "Update text this to work_notes",
+					"work_notes": "This is a work note.",
 					"start_date": "2024-01-05 08:00:00", //This is the planned start date.
 					"end_date": "2024-01-05 09:00:00" // This is the planned end date.
 				}
